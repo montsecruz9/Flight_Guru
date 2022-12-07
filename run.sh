@@ -1,0 +1,1 @@
+FLASK_APP=flight_guru/app.py flask run
