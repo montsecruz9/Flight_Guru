@@ -10,7 +10,7 @@ from flask import (
 #################################################
 # Flask Setup
 #################################################
-app = Flask(flight_guru_app)
+app = Flask(flight-guru)
 
 #################################################
 # Database Setup
